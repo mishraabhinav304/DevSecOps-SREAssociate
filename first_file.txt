@@ -2,3 +2,4 @@ First commit in first_file.txt
 Line added from feature branch. 
 1
 2
+3
